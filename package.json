@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "atomize": "^1.0.26",
+    "react-transition-group": "^4.4.1",
+    "styletron-engine-atomic": "^1.4.6",
+    "styletron-react": "^5.2.7"
+  }
+}
